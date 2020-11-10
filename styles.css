@@ -1,0 +1,26 @@
+h1, h2 {
+    color: blue;
+    text-align: center;
+}
+#foo {
+    color: darkorange;
+    text-align: center
+}
+.baz {
+    color: red;
+    text-align: center
+}
+/* div {
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin: 10px;
+}
+#airtel {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin: 10px;
+} */
